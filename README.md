@@ -1,23 +1,12 @@
 # PROJECT TITLE : BUDGET TRACKER
 
-
 ## Introduction
-
 The Budget Tracker is a simple command-line application written in Python that allows users to track their expenses by adding, viewing total expenses, and viewing expenses for a specific category.
 
 ## Features
-
 - Add expenses with category and amount.
 - View total expenses.
 - View expenses for a specific category.
-
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/RoshaniVijayan/budget-tracker.git
-   cd budget-tracker
 
 ## Install the required dependencies:
 pip install -r requirements.txt
@@ -38,3 +27,11 @@ If you find any issues or have suggestions for improvement, feel free to open an
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/RoshaniVijayan/budget-tracker.git
+   cd budget-tracker
