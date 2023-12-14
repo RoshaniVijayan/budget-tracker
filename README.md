@@ -1,4 +1,4 @@
-# budget-tracker
+# Budget-Tracker
 
 The Budget Tracker is a simple command-line application written in Python that allows users to track their expenses by adding, viewing total expenses, and viewing expenses for a specific category.
 
